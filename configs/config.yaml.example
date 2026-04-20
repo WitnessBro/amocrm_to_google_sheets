@@ -1,0 +1,7 @@
+# AmoCRM Configuration
+amo_subdomain: "your-subdomain"
+amo_api_key: "YOUR_AMOCRM_API_KEY"
+
+# Google Sheets Configuration
+google_table_id: "YOUR_GOOGLE_TABLE_ID"
+google_credentials_path: "configs/credential.json"
